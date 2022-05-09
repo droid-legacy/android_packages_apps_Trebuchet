@@ -29,6 +29,7 @@
     <icon drawable="@drawable/c6_bank" package="com.c6bank.app" />
     <icon drawable="@drawable/caixa" package="br.com.gabba.Caixa" />
     <icon drawable="@drawable/calendar_30" package="com.android.calendar" />
+    <icon drawable="@drawable/calendar_30" package="org.lineageos.etar" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera" />
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" />

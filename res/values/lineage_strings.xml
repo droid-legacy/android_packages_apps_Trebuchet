@@ -81,4 +81,8 @@
     <string name="work_apps_enable_btn_text_custom">Turn on work apps</string>
     <string name="work_apps_paused_info_body_custom">Your work apps cannot send you notifications, use your battery, or access your location</string>
     <string name="work_apps_paused_telephony_unavailable_body_custom">Your work apps cannot receive phone calls or text messages, send you notifications, use your battery, or access your location</string>
+
+    <!-- Kill App recents action shortcut -->
+    <string name="recent_task_option_kill_app">Kill</string>
+    <string name="recents_app_killed">App killed</string>
 </resources>
